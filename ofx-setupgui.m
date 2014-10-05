@@ -1,5 +1,5 @@
 // ofx-setupGUI
-// 
+// Setup ofxUI
 //
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 60E4CB56-6546-417B-B7DD-5BCD67698D7D
