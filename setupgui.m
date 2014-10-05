@@ -1,5 +1,5 @@
 // ofx-setupGUI
-// 
+// OFX
 //
 // IDECodeSnippetCompletionPrefix: setupGUI
 // IDECodeSnippetCompletionScopes: [TopLevel]
