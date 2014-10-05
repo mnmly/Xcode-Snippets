@@ -1,6 +1,7 @@
 // setupGUI
 // 
 //
+// IDECodeSnippetCompletionPrefix: setupGUI
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: DC177834-FFD1-4F96-98D3-6D3D93371292
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
