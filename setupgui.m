@@ -1,4 +1,4 @@
-// setupGUI
+// ofx-setupGUI
 // 
 //
 // IDECodeSnippetCompletionPrefix: setupGUI
