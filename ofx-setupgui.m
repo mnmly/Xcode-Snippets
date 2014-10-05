@@ -1,6 +1,7 @@
 // ofx-setupGUI
 // Setup ofxUI
 //
+// IDECodeSnippetCompletionPrefix: setupGUI
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 60E4CB56-6546-417B-B7DD-5BCD67698D7D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
