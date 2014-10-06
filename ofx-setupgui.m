@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 60E4CB56-6546-417B-B7DD-5BCD67698D7D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 //--------------------------------------------------------------
 void ofApp::setupGUI()
 {
