@@ -1,5 +1,5 @@
 // ofx-setupShader
-// 
+// setup shader
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 2EE92718-EA5C-4A57-A307-F4551FE037E0
