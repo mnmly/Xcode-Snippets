@@ -22,8 +22,7 @@ void ofApp::setupGUI()
 //--------------------------------------------------------------
 void ofApp::guiEvent( ofxUIEventArgs &e )
 {
-    if(e.getName() == "BACKGROUND")
-    {
+    if( e.getName() == "BACKGROUND" ) {
         ofxUISlider *slider = e.getSlider();
         ofBackground(slider->getScaledValue());
     }
