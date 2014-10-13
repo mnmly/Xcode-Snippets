@@ -50,6 +50,6 @@ void ofApp::keyPressed( int key ) {
 //--------------------------------------------------------------
 void ofApp::exit()
 {
-    gui->saveSettings("settings.xml");
+    gui->saveSettings( "settings.xml" );
     delete gui; 
 }
