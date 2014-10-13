@@ -32,8 +32,8 @@ void ofApp::guiEvent( ofxUIEventArgs &e )
 }
 
 //--------------------------------------------------------------
-void ofApp::keyPressed(int key){
-    switch (key) {
+void ofApp::keyPressed( int key ) {
+    switch ( key ) {
         case 'p':
             gui->setDrawWidgetPadding(true);
             break;
