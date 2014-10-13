@@ -25,8 +25,7 @@ void ofApp::guiEvent( ofxUIEventArgs &e )
     if( e.getName() == "BACKGROUND" ) {
         ofxUISlider *slider = e.getSlider();
         ofBackground( slider->getScaledValue() );
-    } else if(e.getName() == "FULLSCREEN")
-    {
+    } else if( e.getName() == "FULLSCREEN" ) {
         ofxUIToggle *toggle = (ofxUIToggle *) e.widget;
         ofSetFullscreen(toggle->getValue());   
     }
