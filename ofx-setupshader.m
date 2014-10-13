@@ -8,10 +8,10 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 #ifdef TARGET_OPENGLES
-    shader.load("shadersES2/shader");
+    shader.load( "shadersES2/shader" );
 #else
-    if (ofIsGLProgrammableRenderer()) {
-        shader.load("shadersGL3/shader");
+    if ( ofIsGLProgrammableRenderer() ) {
+        shader.load("shadersGL3/shader" );
     } else {
         shader.load("shadersGL2/shader");
     }
