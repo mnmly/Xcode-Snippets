@@ -19,5 +19,5 @@
 // #include "ofGLProgrammableRenderer.h"
 // 
 // int main( ){
-//     ofSetCurrentRenderer(ofGLProgrammableRenderer::TYPE);
+//     ofSetCurrentRenderer( ofGLProgrammableRenderer::TYPE );
 // }
