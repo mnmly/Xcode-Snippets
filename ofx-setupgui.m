@@ -11,8 +11,8 @@
 void ofApp::setupGUI()
 {
     gui = new ofxUICanvas();
-    gui->addLabel("OFXUI TUTORIAL", OFX_UI_FONT_LARGE);
-    gui->addSlider("BACKGROUND",0.0,255.0,100.0);
+    gui->addLabel( "OFXUI TUTORIAL", OFX_UI_FONT_LARGE );
+    gui->addSlider( "BACKGROUND",0.0,255.0,100.0 );
     gui->addToggle("FULLSCREEN", false);
     gui->autoSizeToFitWidgets(); 
     ofAddListener(gui->newGUIEvent, this, &ofApp::guiEvent); 
