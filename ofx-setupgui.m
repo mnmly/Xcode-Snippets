@@ -27,13 +27,12 @@ void ofApp::guiEvent( ofxUIEventArgs &e )
         ofBackground( slider->getScaledValue() );
     } else if( e.getName() == "FULLSCREEN" ) {
         ofxUIToggle *toggle = (ofxUIToggle *) e.widget;
-        ofSetFullscreen(toggle->getValue());   
+        ofSetFullscreen( toggle->getValue() );
     }
 }
 
 //--------------------------------------------------------------
-void ofApp::keyPressed(int key)
-{
+void ofApp::keyPressed(int key){
     switch (key) {
         case 'p':
             gui->setDrawWidgetPadding(true);
