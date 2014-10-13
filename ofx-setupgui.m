@@ -15,12 +15,12 @@ void ofApp::setupGUI()
     gui->addSlider( "BACKGROUND", 0.0, 255.0, 100.0 );
     gui->addToggle( "FULLSCREEN", false );
     gui->autoSizeToFitWidgets(); 
-    ofAddListener( gui->newGUIEvent, this, &ofApp::guiEvent ); 
-    gui->loadSettings("settings.xml");
+    ofAddListener( gui->newGUIEvent, this, &ofApp::guiEvent );
+    gui->loadSettings( "settings.xml" );
 }
 
 //--------------------------------------------------------------
-void ofApp::guiEvent(ofxUIEventArgs &e)
+void ofApp::guiEvent( ofxUIEventArgs &e )
 {
     if(e.getName() == "BACKGROUND")
     {
