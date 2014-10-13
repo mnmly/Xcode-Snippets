@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 2EE92718-EA5C-4A57-A307-F4551FE037E0
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #ifdef TARGET_OPENGLES
     shader.load("shadersES2/shader");
 #else
