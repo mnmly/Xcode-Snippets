@@ -7,7 +7,6 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-//--------------------------------------------------------------
 void ofApp::setupGUI()
 {
     gui = new ofxUICanvas();
