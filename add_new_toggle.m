@@ -8,6 +8,5 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 bool <#variable#>;
-
 mUI->addToggle( "<#name#>", &<#variable#> )->setCallback( [ this ]( bool flag ) {
 } );
