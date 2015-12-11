@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-mUI->addToggle( "<#name#>", &<#variable#> )->setCallback( [this]());
+mUI->addToggle( "<#name#>", &<#variable#> )->setCallback( [ this ]( boo));
