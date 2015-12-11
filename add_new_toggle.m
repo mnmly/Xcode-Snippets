@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-mUI->addSliderf( "Surface Scale", &mSurfaceScale, 0.1, 1.0 );
+mUI->addToggle( "Surface Scale", &mSurfaceScale, 0.1, 1.0 );
