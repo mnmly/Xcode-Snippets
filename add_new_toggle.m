@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-bool <#variable#>
+bool <#variable#>;
 
 mUI->addToggle( "<#name#>", &<#variable#> )->setCallback( [ this ]( bool flag ) {
 } );
